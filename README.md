@@ -1,1 +1,2 @@
-# itmo-scientific-python
+# HOWTO convert HW1 txt back to image
+The screenshot images were stored in base64 in the HW1 directory. To convert them back into a binary change your working directory to HW1 with `cd HW1` command and run decode_images.py script with `python decode_images.py`. This will create learngit-main.jpg and learngit-remote.jpg files. These are the screenshots with the completed lessons on the main and remote learngitbranching tabs respectively.
